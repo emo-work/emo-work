@@ -8,35 +8,46 @@
 <!-- 炫酷的分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 个人简介卡片 -->
-<table>
-<tr>
-<td>
+</div>
 
-### 🧙‍♂️ About The Wizard Behind The Code
+## 🧙‍♂️ About The Wizard Behind The Code
+
+<div align="center">
 
 ```javascript
 const developer = {
     name: "emo",
     location: "📍 Nanjing, China",
-    education: "🎓 Undergraduate @ Nanjing Tech University",
+    education: "🎓 Undergraduate @ Nanjing Tech University", 
     major: "🤖 Artificial Intelligence",
     passion: "🔬 Research Enthusiast & AI Explorer",
-    research: ["🤖 Machine Learning", "🧠 Large Language Models", "👁️ Computer Vision"],
+    research: [
+        "🤖 Machine Learning", 
+        "🧠 Large Language Models", 
+        "👁️ Computer Vision"
+    ],
     languages: ["Python", "JavaScript", "C++", "MATLAB"],
     frameworks: ["PyTorch", "TensorFlow", "OpenCV", "Transformers"],
     databases: ["MongoDB", "PostgreSQL", "Redis"],
     tools: ["Jupyter", "Git", "Docker", "Conda"],
-    hobbies: ["📚 Research Papers", "🧪 Experiments", "🎵 Music", "☕ Coffee"],
+    hobbies: [
+        "📚 Research Papers", 
+        "🧪 Experiments", 
+        "🎵 Music", 
+        "☕ Coffee"
+    ],
     funFact: "I train models by day and dream in gradients by night! 🌙"
 };
+
+// 输出开发者信息
+console.log("Welcome to my profile!");
+console.log(`Name: ${developer.name}`);
+console.log(`Mission: Building the future with AI 🚀`);
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
+
+---
 
 ## 🛠️ Tech Arsenal & Magical Tools
 
