@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- 动态打字效果标题 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hello+World!+I'm+emo;🎓+NJTech+Undergraduate+Student;🤖+ML+%26+AI+Researcher+%F0%9F%94%AC;🧠+LLM+%26+Computer+Vision+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hello+World!+I'm+emo;🎓+NJTech+Undergraduate+Student;🤖+ML+%26+AI+Researcher;🧠+LLM+%26+Computer+Vision+Explorer)](https://git.io/typing-svg)
 
 <!-- 炫酷的分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,32 +17,35 @@
 ```javascript
 const developer = {
     name: "emo",
-    location: "📍 Nanjing, China",
-    education: "🎓 Undergraduate @ Nanjing Tech University", 
-    major: "🤖 Artificial Intelligence",
-    passion: "🔬 Research Enthusiast & AI Explorer",
+    location: "Nanjing, China 🇨🇳",
+    education: "Undergraduate @ Nanjing Tech University 🎓", 
+    major: "Artificial Intelligence 🤖",
+    passion: "Research Enthusiast & AI Explorer 🔬",
     research: [
-        "🤖 Machine Learning", 
-        "🧠 Large Language Models", 
-        "👁️ Computer Vision"
+        "Machine Learning 🤖", 
+        "Large Language Models 🧠", 
+        "Computer Vision 👁️"
     ],
     languages: ["Python", "JavaScript", "C++", "MATLAB"],
     frameworks: ["PyTorch", "TensorFlow", "OpenCV", "Transformers"],
     databases: ["MongoDB", "PostgreSQL", "Redis"],
     tools: ["Jupyter", "Git", "Docker", "Conda"],
     hobbies: [
-        "📚 Research Papers", 
-        "🧪 Experiments", 
-        "🎵 Music", 
-        "☕ Coffee"
+        "Research Papers 📚", 
+        "Experiments 🧪", 
+        "Music 🎵", 
+        "Coffee ☕"
     ],
-    funFact: "I train models by day and dream in gradients by night! 🌙"
+    funFact: "I train models by day and dream in gradients by night! 🌙",
+    
+    getCurrentFocus: () => "Building AI systems that matter",
+    getMotivation: () => "Every bug is a step closer to breakthrough!",
+    sayHello: () => console.log("Welcome to my AI journey! 🚀")
 };
 
-// 输出开发者信息
-console.log("Welcome to my profile!");
-console.log(`Name: ${developer.name}`);
-console.log(`Mission: Building the future with AI 🚀`);
+// 启动开发者模式
+developer.sayHello();
+console.log(`Mission: ${developer.getCurrentFocus()}`);
 ```
 
 </div>
@@ -104,18 +107,18 @@ console.log(`Mission: Building the future with AI 🚀`);
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emo&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=emo&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -167,7 +170,7 @@ console.log(`Mission: Building the future with AI 🚀`);
 🏛️ Institution: Nanjing Tech University (南京工业大学)
 🎓 Degree: Bachelor's in Artificial Intelligence
 📈 Focus: AI/ML Research & Development
-🔬 Lab: NjtechCVLab (Computer Vision Laboratory)
+🔬 Lab:NjtechCVLab
 ```
 
 </div>
@@ -178,83 +181,32 @@ console.log(`Mission: Building the future with AI 🚀`);
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 🚀 Recent Projects
 
-### 🤖 ML Research Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emo&repo=classified&theme=tokyonight)](https://github.com/emo/classified)
-
-**Tech Stack:** PyTorch, Python, Jupyter  
-**Status:** 🔒 Classified Research Project  
-**Description:** Advanced machine learning research exploring novel architectures...
-
-</td>
-<td width="50%">
-
-### 🧠 LLM Fine-tuning Project  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emo&repo=classified&theme=tokyonight)](https://github.com/emo/classified)
-
-**Tech Stack:** Transformers, HuggingFace, LoRA  
-**Status:** 🔒 Classified Research Project  
-**Description:** Fine-tuning large language models for specialized applications...
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👁️ Computer Vision Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emo&repo=classified&theme=tokyonight)](https://github.com/emo/classified)
-
-**Tech Stack:** OpenCV, TensorFlow, YOLO  
-**Status:** 🔒 Classified Research Project  
-**Description:** Advanced computer vision system for real-time analysis...
-
-</td>
-<td width="50%">
-
-### 📊 Data Analysis Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emo&repo=classified&theme=tokyonight)](https://github.com/emo/classified)
-
-**Tech Stack:** Pandas, Scikit-learn, Matplotlib  
-**Status:** 🔒 Classified Research Project  
-**Description:** Comprehensive data analysis pipeline for research applications...
-
-</td>
-</tr>
-</table>
+| Project |描述| Tech Stack |状态|
+|---------|-------------|------------|--------|
+| 🤖 **ML Research** | Advanced machine learning algorithms | PyTorch, Python | 🔬 Research |
+| 🧠 **LLM Fine-tuning** | Custom language model training | Transformers, HuggingFace | 🚧 In Progress |
+| 👁️ **Computer Vision** | Real-time object detection system | OpenCV, YOLO | ✅ Complete |
+| 📊 **Data Analysis** | Big data processing pipeline | Pandas, Scikit-learn | 🔬 Research |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-*🎶 Music fuels my coding sessions and research breakthroughs! 🎶*
-
-</div>
-
-## 📈 Coding Activity & Research Progress
-
-<div align="center">
-
-*⏱️ Tracking my journey through code and research! ⏱️*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌐 Connect With The Matrix
+## 🌐 Connect With Me
 
 <div align="center">
 
 ### 🤝 Let's Build Something Amazing Together!
 
 <p>
-  <a href="mailto:emo.work199119@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:emo.work199119@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/emo-work">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ### 💫 Random Dev Quote
@@ -275,12 +227,12 @@ console.log(`Mission: Building the future with AI 🚀`);
     ╔══════════════════════════════════════════════════════════════╗
     ║                    🏆 RESEARCH ACHIEVEMENTS 🏆               ║
     ╠══════════════════════════════════════════════════════════════╣
-    ║  🎯 Research Ninja Level: Graduate Student                   ║
+    ║  🎯 Research Level: Advanced Student                         ║
     ║  ☕ Coffee Consumed: 9999+ cups                              ║
     ║  📚 Papers Read: ∞                                          ║
     ║  🧠 Models Trained: 100+                                    ║
     ║  🔥 Experiments Running: Always                              ║
-    ║  💻 GPUs Melted: 3                                          ║
+    ║  💻 Code Lines Written: 50k+                                ║
     ║  🎓 Knowledge Gained: Exponentially Growing                  ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -296,6 +248,6 @@ console.log(`Mission: Building the future with AI 🚀`);
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 **📊 Profile Views Counter**  
-![](https://komarev.com/ghpvc/?username=emo&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
 
 </div>
