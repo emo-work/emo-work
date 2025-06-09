@@ -14,7 +14,7 @@
 
 <div align="center">
 
-```javascript
+
 const developer = {
     name: "emo",
     location: "Nanjing, China 🇨🇳",
