@@ -14,7 +14,7 @@
 
 <div align="center">
 
-
+```javascript
 const developer = {
     name: "emo",
     location: "Nanjing, China 🇨🇳",
@@ -170,7 +170,7 @@ console.log(`Mission: ${developer.getCurrentFocus()}`);
 🏛️ Institution: Nanjing Tech University (南京工业大学)
 🎓 Degree: Bachelor's in Artificial Intelligence
 📈 Focus: AI/ML Research & Development
-🔬 Lab:NjtechCVLab
+🔬 Lab: Computer Vision Laboratory
 ```
 
 </div>
@@ -183,7 +183,7 @@ console.log(`Mission: ${developer.getCurrentFocus()}`);
 
 ### 🚀 Recent Projects
 
-| Project |描述| Tech Stack |状态|
+| Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 **ML Research** | Advanced machine learning algorithms | PyTorch, Python | 🔬 Research |
 | 🧠 **LLM Fine-tuning** | Custom language model training | Transformers, HuggingFace | 🚧 In Progress |
@@ -201,10 +201,10 @@ console.log(`Mission: ${developer.getCurrentFocus()}`);
 ### 🤝 Let's Build Something Amazing Together!
 
 <p>
-  <a href="mailto:emo.work199119@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/emo-work">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
